@@ -1,0 +1,18 @@
+Assumptions
+
+To run project, run npm-install in terminal and access localhost:3000/
+
+Working exercise is visible when clicking the Vendors link.
+On top part of Vendors Page one can find first Task named as 'Vendors Game Counts', which displays a list of Vendors and Count of each entity in the dataset
+
+    Scrolling down, one will find the second task named 'Games'
+    Text box filter is available to filter through the dataset and re-render the component to display filtered values.
+    Check box is availble below, to filter only the live values from dataset.
+    On scroll down, one can find the Load more button, which when clicked, will load 30 more values from the dataset.
+
+Lazy Loading
+    An image is appended per row in the 'Games' section, to more visualize lazy loading of rows and images in the application.
+    On scroll down, one can notice new rows being rendered on scroll to better manage resources of the application
+
+
+
